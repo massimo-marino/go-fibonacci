@@ -15,7 +15,7 @@ This is the easy way of implementing a bottom-up dynamic programming algorithm.
 **File:** *memoFib.go*
 
 Compute Fibonacci numbers using memoization.
-The only limits are your the memory, and your time if you dare to ask a huge `fib(n)` for a very high value of `n` :-)
+The only limits are your memory, and your time if you dare to ask a huge `fib(n)` for a very high value of `n` :-)
 
 #### Fibonacci Numbers: A fib service using memoization
 
